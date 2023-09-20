@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranav3344
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web developement
+- 👀 I’m interested in Data analytics 
+- 🌱 I’m currently learning Microsoft Power BI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/pranav-yadav-7b74921a4/
 
